@@ -1,11 +1,24 @@
 # ColetMultiplat-TI-eMercdeTrab
 
 Sobre este material.	Esta coletânea tem como finalidade divulgar o conteúdo aqui reunido.  Esta coletânea não tem como finalidade proporcionar lucro às pessoas responsáveis pela reunião do material. A ideia é que esta seja uma coletânea colaborativa. Uma espécie de curso com “aulas” selecionadas por quem quiser participar, para apresentar ideias e assuntos – não para esgotar qualquer ideia ou assunto. Espera-se que você sugira modificações para o material: adicionar ou excluir o que achar pertinente, tal qual o modelo de distribuição de algumas licenças de software livre. Apresenta-se aqui, de forma organizada, conteúdos diversos: tanto vídeos publicados na plataforma de vídeos online, o YouTube (https://www.youtube.com/), de diversos criadores de conteúdo; como também outros materiais, escritos ou em áudio, de origens diversas.
+
 	Tendo em vista aquela história que contam envolvendo Albert Einstein –  (https://cientistadoidao.blogspot.com/2011/09/curiosidades-sobre-einstein.html) onde este teria retrucado um repórter que lhe pediu para explicar a teoria da relatividade, questionando-o se antes o repórter seria capaz de explicar a alguém como se frita um ovo, considerando que essa pessoa não sabe o que é um ovo, nem uma frigideira, nem o óleo, nem o fogo; considerando também o resultado de uma pesquisa publicada em Novembro de 2016 pela Nielsen Norman Group (https://www.nngroup.com/articles/computer-skill-levels/) que “abrangeu 33 países desenvolvidos, e revelou que apenas 5% das pessoas possuem altas habilidades relacionadas ao computador e apenas um terço das pessoas pode concluir tarefas de complexidade mediana”; e por fim, aquela máxima do conhecimento popular: “de que adianta ter um carro se não sabe trocar a roda, para quando o pneu furar?” – Espera-se que esse compilado possa:
+
 	»» Ser útil para ampliar o que se considera “conhecimento básico” (ou “aumentar a quantidade dos caminhos que levam ao conhecimento para aqueles que o buscam de espontânea vontade”);
+
 	»» Viabilizar assertividade na comunicação entre assistências técnicas (ou vendedores de produtos de informática, ou provedores de serviços na internet) e seus clientes (sendo todas pessoas envolvidas idôneas), eliminando a possibilidade de surgir dessa relação alguma acusação de charlatanismo por qualquer das partes envolvidas a partir de informações vagas ou sem sentido como: “a sua placa queimou” (sem mencionar componentes ou circuitos específicos), ou “esse é um bom equipamento” (sobre uma plataforma de hardware considerada de entrada no seu lançamento: há 10 anos, em que se pretende jogar), ou “meu computador está funcionando tudo normal, só que às vezes reinicia sozinho” (???);
+
 	»» Elevar qualitativamente assuntos debatidos em fóruns online de tecnologia.
+
 	»» Servir de inspiração para empregadores e trabalhadores refletirem sobre seus papéis na Sociedade e no Mercado de Trabalho;
+
 	»» Tratar de capacitação e (re)inserção no Mercado de Trabalho.
+
 	Aliás, com esse último item, faz-se necessário destacar que algumas partes dos conteúdos originalmente selecionados nessa apostila destinam-se exclusivamente ao público que vive no Brasil, pois contém alguns assuntos específicos, como por exemplo: legislação local, agências reguladoras federais e operadoras de telefonia móvel locais. Seguindo nessa mesma linha, destaca-se também: a maioria dos vídeos e textos estão no idioma português. Infelizmente nem todos os vídeos em português possuem legendas (recurso de acessibilidade) , e com exceção de quando o entendimento do que é falado não faz diferença (só as imagens importam; como por exemplo no vídeo mostrando o recurso Flicker-Free em monitores) os que não estão nesse idioma as possuem.
+
 	Alguns vídeos contêm material parcialmente repetido com relação a outros. Nota-se isso com mais ênfase no capítulo de Redes (4.), uma área em que há muitos “conceitos-chave” que possuem várias nuances e especificidades; e em LGPD (Lei Geral de Proteção de Dados [Pessoais/Sensíveis]) (5.1.6.), quando é abordada a LGPD – um assunto relativamente novo; e optou-se por usar esse recurso – diferentes visões e formas de explicar o mesmo “conceito-chave” – para aumentar a probabilidade de compreensão do que foi abordado. Há também alguns vídeos que aparecem mais de uma vez – não mais que duas (desconsiderando a inserção dos mesmos vídeos em playlists dos canais ou com “minutagem” (tempo) específica) – pois se encaixavam muito bem nos momentos em que foram colocados.
+
+
+Mais material para integrar esse material pode ser encontrado em
+
+https://youtube.com/playlist?list=PLKMJlV9WO9a_jyTZKI8O0vlO2Sikv8Eqc
