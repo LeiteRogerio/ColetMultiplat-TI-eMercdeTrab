@@ -1,23 +1,35 @@
-# ColetMultiplat-TI-eMercdeTrab
+17 de Agosto de 2026
 
-Sobre este material.	Esta coletânea tem como finalidade divulgar o conteúdo aqui reunido.  Esta coletânea não tem como finalidade proporcionar lucro às pessoas responsáveis pela reunião do material. A ideia é que esta seja uma coletânea colaborativa. Uma espécie de curso com “aulas” selecionadas por quem quiser participar, para apresentar ideias e assuntos – não para esgotar qualquer ideia ou assunto. Espera-se que você sugira modificações para o material: adicionar ou excluir o que achar pertinente, tal qual o modelo de distribuição de algumas licenças de software livre. Apresenta-se aqui, de forma organizada, conteúdos diversos: tanto vídeos publicados na plataforma de vídeos online, o YouTube (https://www.youtube.com/), de diversos criadores de conteúdo; como também outros materiais, escritos ou em áudio, de origens diversas.
+Havia inconsistências aqui. Uhn. Não. O que havia aqui, na verdade, eram erros.
 
-Tendo em vista aquela história que contam envolvendo Albert Einstein –  (https://cientistadoidao.blogspot.com/2011/09/curiosidades-sobre-einstein.html) onde este teria retrucado um repórter que lhe pediu para explicar a teoria da relatividade, questionando-o se antes o repórter seria capaz de explicar a alguém como se frita um ovo, considerando que essa pessoa não sabe o que é um ovo, nem uma frigideira, nem o óleo, nem o fogo; considerando também o resultado de uma pesquisa publicada em Novembro de 2016 pela Nielsen Norman Group (https://www.nngroup.com/articles/computer-skill-levels/) que “abrangeu 33 países desenvolvidos, e revelou que apenas 5% das pessoas possuem altas habilidades relacionadas ao computador e apenas um terço das pessoas pode concluir tarefas de complexidade mediana”; e por fim, aquela máxima do conhecimento popular: “de que adianta ter um carro se não sabe trocar a roda, para quando o pneu furar?” – Espera-se que esse compilado possa:
+Um desses erros foi a normalização de apostas e jogos de azar… Como comprovação dessa “normalização de apostas” havia o encaminhamento para tutorial de como declarar o valor do prêmio no imposto de renda em caso de ganho.
 
-	»» Ser útil para ampliar o que se considera “conhecimento básico” (ou “aumentar a quantidade dos caminhos que levam ao conhecimento para aqueles que o buscam de espontânea vontade”);
+Habia algumas inconsistências de outras ordem, como algumas informações pouco precisas no tópico de redes…
 
-	»» Viabilizar assertividade na comunicação entre assistências técnicas (ou vendedores de produtos de informática, ou provedores de serviços na internet) e seus clientes (sendo todas pessoas envolvidas idôneas), eliminando a possibilidade de surgir dessa relação alguma acusação de charlatanismo por qualquer das partes envolvidas a partir de informações vagas ou sem sentido como: “a sua placa queimou” (sem mencionar componentes ou circuitos específicos), ou “esse é um bom equipamento” (sobre uma plataforma de hardware considerada de entrada no seu lançamento: há 10 anos, em que se pretende jogar), ou “meu computador está funcionando tudo normal, só que às vezes reinicia sozinho” (???);
+Se fosse por inconsistências dessa ordem, esse compilado seria mantido. Como foi o que aconteceu com a primeira versão (foi mantida após a publicação com correções e aprimoramento da segunda).
 
-	»» Elevar qualitativamente assuntos debatidos em fóruns online de tecnologia.
+Mas como não é o caso… Como erros foram cometidos… Decidi excluir.
 
-	»» Servir de inspiração para empregadores e trabalhadores refletirem sobre seus papéis na Sociedade e no Mercado de Trabalho;
+Quanto a cópias do material original? Nunca vi por aí (não que eu tenha me dedicado em procurar). Se existirem… Se você tem uma cópia peço que você não seja uma má pessoa: “Não seja mau” (já diriam os antigos).
 
-	»» Tratar de capacitação e (re)inserção no Mercado de Trabalho.
+É um pedido. Não tenho energia, nem tempo, nem…
 
-Aliás, com esse último item, faz-se necessário destacar que algumas partes dos conteúdos originalmente selecionados nessa apostila destinam-se exclusivamente ao público que vive no Brasil, pois contém alguns assuntos específicos, como por exemplo: legislação local, agências reguladoras federais e operadoras de telefonia móvel locais. Seguindo nessa mesma linha, destaca-se também: a maioria dos vídeos e textos estão no idioma português. Infelizmente nem todos os vídeos em português possuem legendas (recurso de acessibilidade) , e com exceção de quando o entendimento do que é falado não faz diferença (só as imagens importam; como por exemplo no vídeo mostrando o recurso Flicker-Free em monitores) os que não estão nesse idioma as possuem.
+É. Eu sei. Já deveria ter encerrado isso antes. Antes tarde do que mais tarde.
+É isso. Até…
 
-Alguns vídeos contêm material parcialmente repetido com relação a outros. Nota-se isso com mais ênfase no capítulo de Redes (4.), uma área em que há muitos “conceitos-chave” que possuem várias nuances e especificidades; e em LGPD (Lei Geral de Proteção de Dados [Pessoais/Sensíveis]) (5.1.6.), quando é abordada a LGPD – um assunto relativamente novo; e optou-se por usar esse recurso – diferentes visões e formas de explicar o mesmo “conceito-chave” – para aumentar a probabilidade de compreensão do que foi abordado. Há também alguns vídeos que aparecem mais de uma vez – não mais que duas (desconsiderando a inserção dos mesmos vídeos em playlists dos canais ou com “minutagem” (tempo) específica) – pois se encaixavam muito bem nos momentos em que foram colocados.
+… uma revisão futura? Se acontecer será em outro lugar. Se houver normalização de coisas abominadas por quem tem um pensamento minimamente progressista é possível que não seja eu...
 
-Mais material para integrar esse material pode ser encontrado em
+• play Ti, adicionar (ou não) à (a+ vídeos) (Playlists Variadas)
+https://www.youtube.com/playlist?list=PLKMJlV9WO9a_jyTZKI8O0vlO2Sikv8Eqc
 
-https://youtube.com/playlist?list=PLKMJlV9WO9a_jyTZKI8O0vlO2Sikv8Eqc
+---
+
+• Contradições de um Estado burguês-capitalista (b+ vídeos) (Playlists Variadas) https://youtube.com/playlist?list=PLKMJlV9WO9a8rk46vleLUFbyM-hE5GaIi
+
+• Experiências socialistas (c+ vídeos) (Playlists Variadas) https://youtube.com/playlist?list=PLKMJlV9WO9a-E0RnXMIKzcNHPpXg0kgVp
+
+• Superar o capitalismo (d+ vídeos) (Playlists Variadas)
+https://youtube.com/playlist?list=PLKMJlV9WO9a-YHmOCsrtqR82wER5Rp1Dx
+
+• Soberania digital brasileira (e+ vídeos) (Playlists Variadas)
+https://youtube.com/playlist?list=PLKMJlV9WO9a_Jaz9R1jwg9CcgGXr5-0nC 
